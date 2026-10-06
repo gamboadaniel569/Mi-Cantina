@@ -1,0 +1,6 @@
+{
+  "name": "Mi Cantina Escolar - Gestión y Control Nutricional",
+  "description": "Sistema integral de gestión escolar para Mi Cantina con control nutricional, escaneo de carnets, menú para profesores y reporte de pagos por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
